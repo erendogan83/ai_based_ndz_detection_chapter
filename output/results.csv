@@ -1,0 +1,6 @@
+Model,Accuracy (%),Precision (%),Recall (%),F1-Score (%)
+Passive,50.0,0.0,0.0,0.0
+Active,50.0,0.0,0.0,0.0
+SVM,100.0,100.0,100.0,100.0
+Random Forest,100.0,100.0,100.0,100.0
+ANN,100.0,100.0,100.0,100.0
