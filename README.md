@@ -19,13 +19,12 @@
 
 **Eren DOĞAN**  
 *Electrical-Electronics Engineer*  
-📧 Email: erendogan@gibtu.edu.tr  
+📧 Email: erendogann83@gmail.com 
 🎓 Institution: Gaziantep İslam Bilim ve Teknoloji Üniversitesi  
 🏢 Department: Electrical-Electronics Engineering
 
 **Supervisor:**  
-**Prof. Dr. Mehmet Ali ÖZÇELİK**  
-📧 Email: maozcelik@gibtu.edu.tr  
+**Prof. Dr. Mehmet Ali ÖZÇELİK**   
 🎓 Institution: Gaziantep İslam Bilim ve Teknoloji Üniversitesi
 
 ---
@@ -341,10 +340,10 @@ All figures are automatically generated and saved to `outputs/` directory:
 If you use this code or methodology in your research, please cite:
 
 ```bibtex
-@article{dogan2024islanding,
+@article{dogan2025islanding,
   title={AI-Based Solutions for Islanding Detection in Solar Power Plants},
   author={Doğan, Eren and Özçelik, Mehmet Ali},
-  year={2024},
+  year={2025},
   institution={Gaziantep İslam Bilim ve Teknoloji Üniversitesi},
   note={GitHub: https://github.com/erendogan83/ai_based_ndz_detection_chapter}
 }
@@ -352,7 +351,7 @@ If you use this code or methodology in your research, please cite:
 
 ### Related Publications
 
-- **Conference Paper:** Presented at Akdeniz Zirvesi International Applied Sciences Congress, 2024
+- **Conference Paper:** Presented at Akdeniz Zirvesi International Applied Sciences Congress, 2025
 - **Book Chapter:** "AI-Based Solutions for Islanding Detection in Solar Power Plants" (In Press)
 
 ---
@@ -362,7 +361,7 @@ If you use this code or methodology in your research, please cite:
 This project is licensed under the **MIT License**.
 
 ```
-MIT License - Copyright (c) 2024 Eren Doğan
+MIT License - Copyright (c) 2025 Eren Doğan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -396,7 +395,6 @@ Contributions are welcome! Please:
 
 **Supervisor: Prof. Dr. Mehmet Ali ÖZÇELİK**
 
-- 📧 **Email:** maozcelik@gibtu.edu.tr
 - 🎓 **Institution:** Gaziantep İslam Bilim ve Teknoloji Üniversitesi
 
 ---
